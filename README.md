@@ -1,4 +1,4 @@
-### Calcular matriz transposta em C
+### Calcular matriz transposta em C++
 
 Uma matriz é um conjunto de números com indices organizada em linhas e colunas.
 
